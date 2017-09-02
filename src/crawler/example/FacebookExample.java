@@ -14,7 +14,7 @@ import com.github.abola.crawler.CrawlerPack;
  * 2. 取得一組Access Token (試著使用 long term token)
  * 3. 試著用『excel』或任何最簡易的方式，對資料進行探索
  * 
- * @author Abola Lee
+ * @author Abola Lee practice
  *
  */
 public class FacebookExample {
