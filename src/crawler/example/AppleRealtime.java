@@ -27,7 +27,7 @@ public class AppleRealtime {
 	
 	public static void main(String[] args) throws Exception{
 		
-		// 遠端資料路徑 test JasonLee 2017/09/02
+		// 遠端資料路徑 test JasonLee on mac 2017/09/02
 		String uri = "http://www.appledaily.com.tw/realtimenews/section/new/";
 
 //		取出即時新聞列表
